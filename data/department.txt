@@ -1,0 +1,13 @@
+计算机科学	Computing
+软件工程	Computing
+人工智能	Computing
+信息安全	Computing
+数据科学	Computing
+物联网	Computing
+生物信息	Computing
+机械制造	Mechatronics	
+工业设计	Mechatronics
+通信工程	Electronics
+电子工程	Electronics
+控制科学	Astronautics
+航天航空	Astronautics
